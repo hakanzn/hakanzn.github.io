@@ -1,2 +1,0 @@
-# hakanzn.github.io
-Test
